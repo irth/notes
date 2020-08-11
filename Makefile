@@ -2,7 +2,7 @@ MD_FILES := $(wildcard *.md)
 HTML_FILES := $(patsubst %.md,out/%.html,$(MD_FILES))
 
 .PHONY: all
-all: $(HTML_FILES) out/main.css
+all: $(HTML_FILES) out/main.css static
 
 out/%.html: %.md
 	mkdir -p out
@@ -11,6 +11,11 @@ out/%.html: %.md
 out/main.css: 
 	cp template/main.css out/
 
+.PHONY: static
+static:
+	cp -R static out/static
+
+.PHONY: clean
 clean:
 	rm -rf out
 
