@@ -27,7 +27,7 @@ truth about how things work, that the humand mind was trained not to
 see.
 
 The Buddhist claim - the diagnosis - is that by aligning our minds to
-these thruths, to this order, we can relieve our suffering. Is that
+these truths, to this order, we can relieve our suffering. Is that
 claim through - that is the topic of this course.
 
 Modern psychology seems to support some of the claims. It seems that
