@@ -70,6 +70,7 @@ notice how subtly they affect you.
 This effect that the feelings have on people was proven experimentally.
 
 Various people were shown the picture you can see below.
+
 ![](static/budd1.png)
 
 As you can notice, the images can be interpreted in multiple ways, for

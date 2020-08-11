@@ -13,7 +13,8 @@ out/main.css:
 
 .PHONY: static
 static:
-	cp -R static out/static
+	rm -rf out/static
+	cp -R static out/
 
 .PHONY: clean
 clean:
