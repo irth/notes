@@ -11,6 +11,15 @@ Buddhism by Robert Wright.
 You can check out the course
 [here.](https://www.coursera.org/learn/science-of-meditation)
 
+## Updates
+* `2020-08-16` - notes about the third video
+* `2020-08-11` - notes about the second video
+* `2020-08-11` - notes about the first video
+
+## TODO
+- [ ] watch the rest of the course
+- [ ] add hyperlinks to additional information
+
 Video 1: Introduction
 =====================
 
