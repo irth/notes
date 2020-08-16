@@ -27,8 +27,8 @@ truth about how things work, that the humand mind was trained not to
 see.
 
 The Buddhist claim - the diagnosis - is that by aligning our minds to
-these truths, to this order, we can relieve our suffering. Is that
-claim through - that is the topic of this course.
+these truths, to this order, we can relieve our suffering. Is that claim
+through - that is the topic of this course.
 
 Modern psychology seems to support some of the claims. It seems that
 there are some things we do not see, because that's how we were built by
@@ -125,3 +125,61 @@ the politician wants to go to a war with.
 
 Therefore, it is important to figure out how it all works, so that we
 can counteract this effect that emotions can have on us.
+
+Video 3: The three noble truths
+===============================
+
+The first two noble truth can be considered the Buddhist "diagnosis" of
+the human predicament. The rest will give us the prescription.
+
+The first noble truth, "the truth of Suffering", can be summarised as
+"life is suffering".
+
+This is however, not exactly correct, as the word **Duhkha** (in
+Sanskrit, or **Dukkha** in Pali), has some more meaning to it than just
+suffering.
+
+Mr Wright also, at this point, introduces some other words which are
+often found in Buddhist scripture and can have different spellings in
+Sanskrit and Pali:
+
+* Nirvana (Sanskrit) - Nibbana (Pali) - liberation
+* Dharma (Sanskrit) - Dhama (Pali) - a lot of meanings, the two main
+  ones are:
+    * The truth about how things are (the unseen order), about the
+      natural and moral law that governs the structure of the
+      universe. Not the Buddhist beliefs, but the actual, immutable
+      truth.
+    * And also, description of how we should live, according to those
+      truths.
+
+The other meaning can be described as "unsatisfactoriness", and it
+describes how humans, even when they are happy, when they receive
+pleasure, gratification, eventually return to their baseline "happiness"
+state. We are never truly satisfied.
+
+The second of the four noble truths, describes the cause of that
+Suffering as our thirsts, cravings, and also the tendency to cling to
+the stuff we have.
+
+Thirsts and cravings in this case do not necessarily mean raw pleasure,
+this can be any gratifying stuff, like getting an A or something like
+that.
+
+When you feel good, you want more, and you do not want to lose what you
+have.
+
+This second truth also includes anxieties and fears. Of course, it isn't
+obvious at first how you can include fears in the word "cravings" or
+"thirsts" - after all, no one wants those feelings. However, fears and
+anxieties can be easily rephrased.
+
+If you fear social criticism, you could say you are clinging to your
+social status. When you fear a lion, you crave to stay alive.
+
+This does not mean that you should avoid pleasure or not want to keep
+your life, but it is important to understand that truth, as those
+cravings and fears are what guide us in our decision-making.
+
+The idea is not to get rid of pleasure or not care about survival, but
+to avoid clinging, to keep it in check.
